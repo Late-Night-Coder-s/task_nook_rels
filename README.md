@@ -1,2 +1,1 @@
-# task_nook_rels
-A cozy little checklist app that lives entirely on your device. No cloud, no tracking, just you and your lists.
+Task Nook is your personal corner for keeping track of things that matter. Create different 'nooks' for work, home, hobbies, or whatever you need. Check things off as you go. Everything stays on your device - we don't have servers, we don't collect data, and we definitely don't sell your stuff to advertisers. It's just a simple app made by indie devs who believe your notes should stay yours.
